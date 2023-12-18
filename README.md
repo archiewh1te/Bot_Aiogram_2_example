@@ -1,4 +1,3 @@
-**Moderator_Bot v1.0**
 
 **Author:** @ArchieWh1te
 
